@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hajisho.github.io/hugo_test/post/3%E3%81%A4%E3%82%81%E3%81%AE%E6%8A%95%E7%A8%BF/</loc>
+    <lastmod>2020-09-07T15:10:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hajisho.github.io/hugo_test/</loc>
+    <lastmod>2020-09-07T15:10:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hajisho.github.io/hugo_test/post/</loc>
+    <lastmod>2020-09-07T15:10:12+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hajisho.github.io/hugo_test/post/2%E5%9B%9E%E7%9B%AE%E3%81%AE%E6%8A%95%E7%A8%BF/</loc>
     <lastmod>2020-08-04T07:53:22+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://hajisho.github.io/hugo_test/categories/</loc>
-    <lastmod>2020-08-04T07:53:22+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hajisho.github.io/hugo_test/</loc>
-    <lastmod>2020-08-04T07:53:22+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hajisho.github.io/hugo_test/post/</loc>
     <lastmod>2020-08-04T07:53:22+09:00</lastmod>
   </url>
   

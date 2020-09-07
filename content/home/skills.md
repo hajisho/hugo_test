@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -15,22 +14,53 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
+  icon = "code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "プログラミング"
+  description = "★：現在使用しているもの"
+  skills = ["Python ★", "Java", "C", "HTML/CSS", "JavaScript", "Go ★"]
+
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "研究・勉強"
+  description = "★：研究中"
+   skills = ["行動予測 ★", "グラフニューラルネットワーク ★", "自然言語処理", "強化学習", "時系列"]
+
+ [[feature]]
+  icon = "pen-fancy"
+  icon_pack = "fas"
+  name = "機械学習のための数学"
+  description = "＊これらに関しては少しずつ勉強中です"
+   skills = ["情報幾何学", "確率・統計", "最適化論", "多様体論・微分幾何学","集合位相","測度論"]
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "情報科学"
+  description = "学部の講義として(主なもの)"
+   skills = ["データベース (SQL)", "セキュリティ", "ネットワーク", "ソフトウェア工学", "OS","アセンブリ・ハードウェア"]
+
+
+# [[feature]]
+#  icon = "linux"
+#  icon_pack = "fab"
+#  name = "その他"
+#  description = ""
+#   skills = ["git", "Word/Exel/PowerPoint","tableau"]
+  
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = ""  
+  
+# [[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
+#  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
